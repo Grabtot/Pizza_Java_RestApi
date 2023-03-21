@@ -19,4 +19,5 @@ target/
 *.iml
 *.ipr
 application.properties
+src/main/resources/static/images
 
